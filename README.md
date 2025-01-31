@@ -1,6 +1,6 @@
 # FutureDevs
 
-| Student Name | CCID       | Username     |
-| ------------ | --------   | ------------ |
-| `<example1>` | `Imajekod` | `IsraelMajek`|
+|     Student Name     | CCID       | Username     |
+| -------------------  | --------   | ------------ |
+| `Israel Majekodunmi` | `Imajekod` | `IsraelMajek`|
 
